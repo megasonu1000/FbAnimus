@@ -65,7 +65,6 @@ notebook==5.7.0
 numpy==1.15.3
 olefile==0.45.1
 padaos==0.1.7
-padatious==0.4.5
 pandas==0.23.4
 pandocfilters==1.4.2
 pathlib2==2.3.2
@@ -111,4 +110,6 @@ widgetsnbextension==3.4.2
 wolframalpha==3.0.1
 xmltodict==0.11.0
 xxhash==1.2.0
+fann2==1.0.7
+padatious==0.4.5
 
