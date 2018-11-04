@@ -81,7 +81,7 @@ ptyprocess==0.6.0
 PyAudio==0.2.11
 pycrypto==2.6.1
 Pygments==2.2.0
-pygobject==3.26.1
+pygobject==3.27.1
 pyparsing==2.3.0
 python-dateutil==2.7.5
 pyttsx==1.1
