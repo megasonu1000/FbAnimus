@@ -1,2 +1,3 @@
 swig
-python-fann2
+libfann1 
+libfann1-dev
