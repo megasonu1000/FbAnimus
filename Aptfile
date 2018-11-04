@@ -1,8 +1,8 @@
 g++
 gcc
 swig
-libfann1 
-libfann1-dev
+libfann2 
+libfann-dev
 python-setuptools 
 python-dev 
 build-essential
