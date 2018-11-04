@@ -1,3 +1,5 @@
+g++
+gcc
 swig
 libfann1 
 libfann1-dev
@@ -5,4 +7,3 @@ python-setuptools
 python-dev 
 build-essential
 python-fann2
-g++
